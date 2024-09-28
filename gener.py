@@ -15,3 +15,4 @@ def generate(mean_defective_rate):
     print(f'Generated random value (defective rate): {random_value:.4f}')
     print(f'95% confidence interval: ({confidence_interval[0]:.4f}, {confidence_interval[1]:.4f})')
     return  confidence_interval
+#for R2
